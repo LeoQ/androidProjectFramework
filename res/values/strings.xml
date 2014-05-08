@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CSCK</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="something_has_wrong">Sorry,something has wrong,App will now exit.</string>
+	
+	<string name="weibosdk_toast_share_success">Share Success</string>
+    <string name="weibosdk_toast_share_failed">Share Failed</string>
+    <string name="weibosdk_toast_share_canceled">Share Canceled</string>
+	<string name="weibosdk_not_support_api_hint">Weibo sdk not support api</string>
+	<string name="network_not_available">The network is not available</string>
+</resources>
